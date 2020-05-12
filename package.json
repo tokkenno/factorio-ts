@@ -1,0 +1,9 @@
+{
+  "name": "@lua/factorio",
+  "version": "0.0.1-alpha0",
+  "description": "Typescript bindings for Factorio Lua API",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript-to-lua": "^0.29"
+  }
+}

@@ -10,4 +10,8 @@ declare namespace defines {
     enum events {
         on_tick
     }
+
+    enum inventory {
+
+    }
 }
